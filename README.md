@@ -8,9 +8,9 @@ Imagine the fictional cinema advertising company cineCorp selling advertising by
 
 Elia (the designer) sends you his design draft with some notes and ask you to build a simple prototype. You can find all his files and comments in the \design-files folder.
 
-Your job is to build a simple one-page react prototype in a new branch (name it after yourself in the following format: prename_name) based on the design images, and the notes attached. Please don’t use more than 2 hours to finish the job. If you can’t finish the task in the given time, that is perfectly ok. We recognise it will be difficult to finish everything, but try to write down how you would have finished it. This way we can follow your thought process, without you spending too much of your time.
+Your job is to build a simple one-page react prototype from a pull request based on the design images, and the notes attached. Please don’t use more than 2 hours to finish the job. If you can’t finish the task in the given time, that is perfectly ok. We recognise it will be difficult to finish everything, but try to write down how you would have finished it. This way we can follow your thought process, without you spending too much of your time.
 
-When your finished, push your branch to GitHub.
+When your finished, please upload your code and send me a message.
 
 Happy coding :)
 
